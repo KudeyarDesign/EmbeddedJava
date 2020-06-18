@@ -8,8 +8,11 @@ There are two different presentations: for MIPS (PIC32 family) and for Intel x86
 Files in attach:
 
 MIPS_Core_Presentation.pdf – core presentation for MIPS
-MIPS_IDE_Presentation.pdf – IDE/Debugger presentation for MIPS
+
+MIPS_IDE_Presentation.pdf – IDE/Debugger presentation for MIP1S
+
 x86_IDE_Presentation.pdf – IDE/Debbuger presentation for Intel/x86-32   
+
 x86_IDE_Presentation.pdf – IDE/Debugger presentation for Intel/x86-32  
 
 Copyright (C) 2017
