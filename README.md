@@ -16,5 +16,8 @@ x86_IDE_Presentation.pdf – IDE/Debbuger presentation for Intel/x86-32
 x86_IDE_Presentation.pdf – IDE/Debugger presentation for Intel/x86-32  
 
 Copyright (C) 2017
-Alexey Shistko     alexey@kudeyar.com
-Andrei Safronov    andrei@kudeyar.com
+
+Alexey Shistko     
+alexey@kudeyar.com
+Andrei Safronov    
+andrei@kudeyar.com
